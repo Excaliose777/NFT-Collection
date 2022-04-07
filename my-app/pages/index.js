@@ -381,7 +381,7 @@ export default function Home() {
       </div>
 
       <footer className={styles.footer}>
-        Made with &#10084; by Excaliose
+        Made with &#127183; by Excaliose
       </footer>
     </div>
   );
